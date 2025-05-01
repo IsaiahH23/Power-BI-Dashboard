@@ -1,0 +1,101 @@
+Department,Project,Metric,Planned Value,Actual Value,Date,Data Quality Score
+HR,Hiring Forecast,Accuracy,146,53,2024-01-07,0.94
+Operations,Water Usage Optimization,Compliance,50,60,2024-01-14,0.94
+Finance,Water Usage Optimization,Accuracy,68,87,2024-01-21,0.96
+HR,Logistics Efficiency,Cost,51,59,2024-01-28,0.97
+HR,Water Usage Optimization,Compliance,102,159,2024-02-04,0.85
+Operations,Water Usage Optimization,Cost,93,47,2024-02-11,0.85
+Finance,Water Usage Optimization,Compliance,139,46,2024-02-18,0.94
+Finance,Logistics Efficiency,Compliance,81,106,2024-02-25,0.89
+HR,Water Usage Optimization,Timeliness,119,56,2024-03-03,0.91
+Public Utilities,Hiring Forecast,Cost,81,72,2024-03-10,0.94
+HR,Logistics Efficiency,Accuracy,117,87,2024-03-17,0.97
+HR,Hiring Forecast,Accuracy,104,115,2024-03-24,0.8
+HR,Logistics Efficiency,Cost,124,98,2024-03-31,0.81
+HR,Water Usage Optimization,Accuracy,105,154,2024-04-07,0.73
+Operations,Hiring Forecast,Accuracy,66,125,2024-04-14,0.87
+Finance,Logistics Efficiency,Cost,87,158,2024-04-21,0.71
+Operations,Budget Review,Compliance,73,61,2024-04-28,0.84
+Operations,Water Usage Optimization,Cost,118,149,2024-05-05,0.86
+Operations,Logistics Efficiency,Compliance,147,69,2024-05-12,0.79
+HR,Budget Review,Accuracy,119,77,2024-05-19,0.88
+Public Utilities,Logistics Efficiency,Accuracy,135,141,2024-05-26,0.71
+Finance,Budget Review,Accuracy,60,148,2024-06-02,0.71
+Public Utilities,Water Usage Optimization,Timeliness,65,90,2024-06-09,0.95
+Operations,Hiring Forecast,Compliance,146,93,2024-06-16,0.81
+Operations,Budget Review,Timeliness,122,47,2024-06-23,0.74
+Public Utilities,Logistics Efficiency,Timeliness,108,66,2024-06-30,0.86
+Public Utilities,Water Usage Optimization,Cost,119,66,2024-07-07,0.93
+Public Utilities,Budget Review,Timeliness,129,137,2024-07-14,0.76
+Operations,Logistics Efficiency,Cost,142,60,2024-07-21,0.89
+Operations,Logistics Efficiency,Cost,52,69,2024-07-28,0.73
+Finance,Logistics Efficiency,Timeliness,69,136,2024-08-04,0.72
+Finance,Budget Review,Compliance,108,67,2024-08-11,0.86
+Operations,Budget Review,Compliance,85,150,2024-08-18,0.86
+Public Utilities,Budget Review,Compliance,68,103,2024-08-25,0.89
+Public Utilities,Hiring Forecast,Compliance,139,136,2024-09-01,0.92
+Finance,Budget Review,Compliance,116,108,2024-09-08,0.99
+Operations,Budget Review,Timeliness,68,100,2024-09-15,0.85
+Finance,Budget Review,Timeliness,69,87,2024-09-22,0.8
+Finance,Hiring Forecast,Accuracy,145,58,2024-09-29,0.94
+HR,Budget Review,Compliance,120,43,2024-10-06,0.78
+HR,Logistics Efficiency,Timeliness,101,74,2024-10-13,0.83
+HR,Budget Review,Accuracy,82,103,2024-10-20,0.72
+Public Utilities,Logistics Efficiency,Compliance,89,88,2024-10-27,0.71
+Operations,Logistics Efficiency,Cost,88,56,2024-11-03,0.99
+Operations,Logistics Efficiency,Accuracy,131,83,2024-11-10,0.95
+Operations,Hiring Forecast,Timeliness,50,131,2024-11-17,0.91
+Operations,Hiring Forecast,Cost,60,69,2024-11-24,0.82
+HR,Hiring Forecast,Cost,141,132,2024-12-01,0.75
+Public Utilities,Budget Review,Cost,106,85,2024-12-08,0.75
+Public Utilities,Logistics Efficiency,Accuracy,138,156,2024-12-15,0.78
+HR,Hiring Forecast,Timeliness,99,45,2024-12-22,0.86
+Public Utilities,Hiring Forecast,Cost,72,138,2024-12-29,0.91
+HR,Budget Review,Compliance,80,144,2025-01-05,0.9
+Operations,Hiring Forecast,Cost,143,76,2025-01-12,0.78
+HR,Budget Review,Cost,91,63,2025-01-19,0.99
+Operations,Water Usage Optimization,Accuracy,148,132,2025-01-26,0.92
+Operations,Hiring Forecast,Accuracy,56,152,2025-02-02,0.87
+Finance,Water Usage Optimization,Timeliness,65,85,2025-02-09,0.88
+HR,Budget Review,Compliance,139,92,2025-02-16,0.83
+Finance,Logistics Efficiency,Accuracy,109,134,2025-02-23,0.77
+HR,Hiring Forecast,Cost,51,138,2025-03-02,0.81
+HR,Budget Review,Timeliness,50,99,2025-03-09,0.93
+Finance,Logistics Efficiency,Cost,97,136,2025-03-16,0.7
+Finance,Logistics Efficiency,Cost,61,155,2025-03-23,0.73
+HR,Water Usage Optimization,Accuracy,118,102,2025-03-30,0.71
+Public Utilities,Budget Review,Timeliness,86,124,2025-04-06,0.71
+Operations,Logistics Efficiency,Compliance,81,71,2025-04-13,0.96
+Finance,Hiring Forecast,Compliance,58,126,2025-04-20,0.91
+Operations,Hiring Forecast,Accuracy,148,72,2025-04-27,0.84
+Public Utilities,Water Usage Optimization,Accuracy,68,106,2025-05-04,0.73
+Public Utilities,Logistics Efficiency,Timeliness,97,57,2025-05-11,0.85
+Public Utilities,Budget Review,Compliance,129,64,2025-05-18,0.84
+Finance,Hiring Forecast,Compliance,52,145,2025-05-25,0.75
+Public Utilities,Logistics Efficiency,Compliance,69,134,2025-06-01,0.83
+Finance,Logistics Efficiency,Cost,73,93,2025-06-08,0.82
+Public Utilities,Water Usage Optimization,Compliance,103,97,2025-06-15,0.88
+Operations,Hiring Forecast,Cost,82,106,2025-06-22,0.89
+Operations,Hiring Forecast,Timeliness,73,143,2025-06-29,0.71
+HR,Budget Review,Cost,124,85,2025-07-06,0.81
+Operations,Hiring Forecast,Timeliness,121,63,2025-07-13,0.89
+HR,Budget Review,Compliance,85,153,2025-07-20,0.85
+Operations,Hiring Forecast,Compliance,87,71,2025-07-27,0.96
+Finance,Water Usage Optimization,Timeliness,133,86,2025-08-03,0.9
+Operations,Hiring Forecast,Accuracy,148,125,2025-08-10,0.75
+HR,Budget Review,Timeliness,138,62,2025-08-17,0.72
+HR,Budget Review,Accuracy,148,105,2025-08-24,0.89
+Public Utilities,Water Usage Optimization,Cost,74,66,2025-08-31,0.71
+Finance,Hiring Forecast,Cost,142,145,2025-09-07,0.88
+Operations,Hiring Forecast,Cost,67,41,2025-09-14,0.98
+Public Utilities,Water Usage Optimization,Compliance,131,129,2025-09-21,0.87
+Operations,Hiring Forecast,Cost,115,56,2025-09-28,0.82
+Operations,Hiring Forecast,Accuracy,103,143,2025-10-05,0.89
+Public Utilities,Budget Review,Cost,84,72,2025-10-12,0.84
+Public Utilities,Hiring Forecast,Timeliness,129,48,2025-10-19,0.86
+Public Utilities,Hiring Forecast,Timeliness,110,82,2025-10-26,0.98
+Public Utilities,Water Usage Optimization,Compliance,90,157,2025-11-02,0.82
+Public Utilities,Water Usage Optimization,Timeliness,149,87,2025-11-09,0.99
+Operations,Logistics Efficiency,Accuracy,82,78,2025-11-16,0.97
+Public Utilities,Budget Review,Cost,117,132,2025-11-23,0.76
+Finance,Hiring Forecast,Compliance,82,81,2025-11-30,0.72
